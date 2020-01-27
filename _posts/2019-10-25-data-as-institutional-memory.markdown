@@ -2,6 +2,7 @@
 layout: post
 title:  Data as institutional memory
 date:   2019-10-25 12:00:00
+categories: data architecture
 ---
 
 It all started, as usual, with me running my mouth in the pub.
