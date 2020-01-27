@@ -18,17 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adam Locker - Data Architect, Cornishman. 
+title: Adam Locker - Data Architect. Cornishman.
 email: chairlord@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog. I tend to write about my job, data architecture, I also
-  write about the music I like, the things I read, and the things I eat.
-
-  I am good at that last one.
+  This is my blog. I tend to write about my job, data architecture, the music I like, the things I read, and the things I eat. I am good at that last one.
 baseurl: "/my-wee-blog" # the subpath of your site, e.g. /blog
 url: "https://adamlocker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chairlord
 github_username:  adamlocker
+author: Adam Locker
 
 # Build settings
 theme: minima
