@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adam Locker: Gifted amateur snacker.
+title: Adam Locker - Data Architect, Cornishman. 
 email: chairlord@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog. I tend to write about my job, data architecture, I also
