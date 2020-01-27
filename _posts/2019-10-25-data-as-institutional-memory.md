@@ -12,7 +12,7 @@ I thought that was a nice soundbite, I even got some nods. Satisfied with my wor
 
 I then reused it in the 8 minutes I had at the Institute for Government's Data Bites event, firing it off into the audience somewhat haphazardly.
 
-![the slide used in my data bites presentation](images/data-bites-slide.png)
+![the slide used in my data bites presentation](../images/data-bites-slide.png)
 
 In the pub afterwards, Dan said he liked what I said, and would like me to expand on it in a blog post. So here we are. That's the trouble with spending time with people you like and respect, when they think you should do something it's very hard to dismiss their opinion because you like and respect it.
 
@@ -41,7 +41,7 @@ You may already have a good understanding of how your organisation's services an
 
 This first exercise will have benefits beyond improving your data models, so is well worth doing. You need to draw out how all your organisation's services, applications and processes hang together. Here's a picture of a map<sup>[1](#footnote1)</sup> I've created here at the FSA;
 
-![a screenshot of the map I created of the FSA data ecosystem](images/data-ecosystem.jpg)
+![a screenshot of the map I created of the FSA data ecosystem](../images/data-ecosystem.jpg)
 
 A screenshot of the FSA data ecosystem map. This is roughly how our services, applications and processes move data around between each other and our various users.<sup>[2](#footnote2)</sup>
 
