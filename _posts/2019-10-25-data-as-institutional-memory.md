@@ -12,7 +12,7 @@ I thought that was a nice soundbite, I even got some nods. Satisfied with my wor
 
 I then reused it in the 8 minutes I had at the Institute for Government's Data Bites event, firing it off into the audience somewhat haphazardly.
 
-![the slide used in by data bites presentation](/images/data-bites-slide.png)
+![the slide used in my data bites presentation](/images/data-bites-slide.png)
 
 In the pub afterwards, Dan said he liked what I said, and would like me to expand on it in a blog post. So here we are. That's the trouble with spending time with people you like and respect, when they think you should do something it's very hard to dismiss their opinion because you like and respect it.
 
