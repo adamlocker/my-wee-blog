@@ -17,7 +17,6 @@ All are none the wiser.
 My three main "dealers" in 2019 I know through work or extended work networks. Oh, and BBC 6 Music because working from home is great. So thanks to [Dan](https://twitter.com/dasbarrett), [Paul](https://twitter.com/PaulMcG59), and [Steve](https://twitter.com/stevenjmesser) for their continually good recommendations this year.
 
 ## The list
-
 Is in no particular order, wasn't limited to any particular number of tracks. Where I can I've said a bit about what I liked about the song, or how I came across it.
 
 Mostly, I've listened to all the albums these songs came on, but the chances anyone would want to listen to all of these as albums are slim. I have used data where I could, pulling down my streaming data, and tracks in my Shazam library.
@@ -28,16 +27,18 @@ The only rule I had was to only include tracks I _heard_ for the first time in 2
 
 Judging by what's on this list, I listened to far more electronic music than anything else in 2019. I have always loved electronic music, but my ears have a pretty broad diet. I was really surprised to find no hip-hop on the list at all this year. Someone please tell me what I missed. Thank the lord RTJ4 is due this year.
 
-Okay, let's crack on my 'ansomes.
+If you just want to get straight to the listening, I made a bit of an effort and made playlists on [Apple Music](https://music.apple.com/gb/playlist/adams-2019-new-listens/pl.u-vxy66ejFd1bdy) **and** [Spotify](https://open.spotify.com/playlist/6s5nKpVc8eXyRXvGDxvHMK?si=_qoB9C7CTsemXLvpF7YPTA). Sorry to both of you on Tidal.
 
-Oh, and if you just want to get straight to the listening, I made a bit of an effort and made playlists on [Apple Music](https://music.apple.com/gb/playlist/adams-2019-new-listens/pl.u-vxy66ejFd1bdy) **and** [Spotify](https://open.spotify.com/playlist/6s5nKpVc8eXyRXvGDxvHMK?si=_qoB9C7CTsemXLvpF7YPTA). Sorry to both of you on Tidal.
+I am always open to more recommendations, I want to hear all the music. Best place to find me is [Twitter](https://twitter.com/chairlord)
+
+Okay, let's crack on my 'ansomes.
 
 ### 1.  [He Has the Key - Nathan Micay](https://www.youtube.com/watch?v=uFWP148iP00)
 I found this one from [Bleep's top 10 albums of 2019](https://bleep.com/Bleeps-Top-10-Albums-of-the-Year-2019). Not going to lie, I was a little baffled when they described this as;
 
 >Nathan Micay turned in an anime-inspired club masterpiece in the form of Blue Spring.
 
-Whut? Then I got to this track, and it really all made sense. Good luck getting the vocal sample out of your head, it's no [Toss a Coin to Your Witcher](https://www.youtube.com/watch?v=hqbS7O9qIXE) but what is?
+Whut? Then I got to this track, and it really all made sense. Good luck getting the vocal sample out of your head, it's no [Toss a Coin to Your Witcher](https://www.youtube.com/watch?v=hqbS7O9qIXE), but what is?
 
 ### 2.  [Pang - Soundbwoy Killah](https://www.youtube.com/watch?v=vFITcSOoaBY)
 Steve recommended this one only the second time I met him, immediately positioning himself as someone worth knowing. Well played Steve, well played. This ended up being my album of 2019, so I am sure Mr. Killah will be pleased. I'm nearly 40 now, so the youth parlance is a mystery to me, but I believe this one slaps, or spanks, or something...
@@ -52,7 +53,7 @@ The horn sound on this finally answers the age-old question. What's the last thi
 I heard this saucy riff sampled on some beat many years ago, and only found out where it came from when the YouTube algorithm recommended [this set](https://www.youtube.com/watch?v=w0jyU13gtBs) to me. I don't understand what she's saying, but I sure get how she's feeling.
 
 ### 6.  [Take Back - Girls of the Internet](https://www.youtube.com/watch?v=Z7NmLpDhFfk)
-I love it when Nemone gets allowed out into the daylight on 6 Music because she plays only the finest electronica. I think it was another track off an earlier EP that first drew my attention to them, but this is a belter of a pop house track.
+I love it when Nemone gets allowed out into the daylight on 6 Music because she plays the finest electronica. I think it was another track off an earlier EP that first drew my attention to them, but this is a belter of a pop house track.
 
 ### 7.  [My Sweet Lord - Byron Lee & The Dragonaires](https://www.youtube.com/watch?v=ttWtNPOaN2E)
 Another one that gives me the tingles. This is a fantastic cover of one of the most beautiful pop songs ever written.
@@ -89,7 +90,7 @@ Also the opening bars really remind me of The Vines' [Get Free](https://www.yout
 I am 99% sure I also heard this one on Mary Anne Hobbs' show. All hail our saviour Mary Anne Hobbs.
 
 ### 15. [Amore Amaro - Alessandro Cortini](https://www.youtube.com/watch?v=MVJC--9Swuk)
-Another recommend from train joyrider Paul. I enjoyed his 2017 effort AVANTI greatly, and was pleasantly surprised to find out this was even better. I found out the other day he also did the soundtrack to one of 2019's most average videogames, [Tom Clancy's Ghost Recon: Breakpoint](https://www.youtube.com/watch?v=_tTREGtktH8&list=PLplWQWlFS074Ck6YZLMon6QcSIbfAFNNW). Small world.
+Another recommend from train joyrider Paul. I enjoyed his 2017 effort AVANTI greatly, and was pleasantly surprised to find out this was even better. I found out the other day he also did the soundtrack to one of 2019's most average videogames, [Tom Clancy's Ghost Recon: Breakpoint](https://www.youtube.com/watch?v=_tTREGtktH8&list=PLplWQWlFS074Ck6YZLMon6QcSIbfAFNNW). The soundtrack is anything but average.
 
 ### 16. [Chic Tweetz - Desert Sessions](https://www.youtube.com/watch?v=iiqjsiGyCYE)
 I have liked Josh Homme's original side project for many years now, and the latest Desert Sessions is no exception. Music doesn't always have to be serious. Matt Berry, yes, _that_ Matt Berry with a cracking turn on the organ here.
@@ -122,7 +123,7 @@ Reminds me of the Bossa Nova demo beat off an old Casio keyboard, and if Drake c
 They made a part three! How about making a fifth album lads? None of us will be here forever.
 
 ### 22. [Better - People Club](https://www.youtube.com/watch?v=aEjOeLKqzcg)
-Another random Shazam from the radio. Probably 6 Music but not certain. I'm not 100% sure I like the rest of their output, and no album in sight but I like this one even if the cover gives me the heebie-jeebies.
+Another random Shazam from the radio. Probably 6 Music but not certain. I'm not 100% sure I like the rest of their output, and no album in sight but I like this one even if the cover art gives me the heebie-jeebies.
 
 ### 23. [Swing Shut - Rozi Plain](https://www.youtube.com/watch?v=OZfcZ5m1bKU)
 One of the finest complete works this year. If you only listen to one full album from this list, please make it this one. Dan tweeted about this one I remember. So that platform isn't entirely dreadful.
@@ -137,7 +138,7 @@ Another 6 Music special, only an EP so far but it's a corker. I don't know much 
 I was looking forward to this Karen O and Danger Mouse collaboration from when it was announced. What surprised me was just how much I enjoyed it. It wasn't what I expected after hearing the first single, and this 9 minute opening volley with a couple of changes of pace was far more musically interesting than I was prepared for.
 
 ### 27. [Simmer - Throwing Snow](https://www.youtube.com/watch?v=EbQ0dtA-p0A)
-Another one from Paul, the man has form I'll give him that. This has a lovely, dirty, wub wub to it that I like to enjoy on my own.
+Another one from Paul, the man has form I'll give him that. This has a lovely, dirty, wub wub to it that I like to enjoy on my own, sometimes in my kitchen.
 
 ### 28. [Suns of Gold - Leifur James](https://www.youtube.com/watch?v=HbZT-Rb83PA)
 A late entry to the list, I only discovered this because it was on Steve's [best of 2019](https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/). This album is as glossy as a labrador's coat.
@@ -146,11 +147,11 @@ A late entry to the list, I only discovered this because it was on Steve's [best
 OH CANADA!
 
 ### 30. [Sonia - Love Don't Live Here Anymore](https://www.youtube.com/watch?v=KewZJHXLUH8)
-Sorry this is the only version of this song I could find online, but it's so good you can excuse the DJ adding his sting over the top. This is better than the original, yeah I said it.
+Sorry this is the only version of this song I could find online, but it's so good you can excuse the DJ adding his sting over the top. This is better than the original, and I will be taking no further questions at this time.
 
 ### 31. [Anoushka Shankar - Naked](https://www.youtube.com/watch?v=s2OYAcCvay8)
 It's nice to hear the Sitar take centre stage for once, and this is hell of a way to do it.
 
-Well, I hope you find something in this list you'll enjoy.
+I hope you find something in this list you'll enjoy, I've enjoyed putting it together.
 
 Cheers 'n' gone.
