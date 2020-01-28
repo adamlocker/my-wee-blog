@@ -1,0 +1,156 @@
+---
+layout: post
+title:  New listens of 2019
+date:   2020-01-28 20:00:00
+categories: music
+---
+One of my favourite TV shows of late is Salvage Hunters. Drew Pritchard, flat-cap wearing antiques dealer raids decrepit buildings the length and breadth of Britain looking for cool stuff.
+
+In one episode he tells a "joke", it goes something like this;
+
+>"Three antique dealers and an 18th century chair are washed up on a desert island. They all make a living."
+
+I am a musical antique dealer. I know other music dealers. I get their recommendations and give them to other music dealers in exchange for more recommendations, and that all important kudos.
+
+All are none the wiser.
+
+My three main "dealers" in 2019 I know through work or extended work networks. Oh, and BBC 6 Music because working from home is great. So thanks to [Dan](https://twitter.com/dasbarrett), [Paul](https://twitter.com/PaulMcG59), and [Steve](https://twitter.com/stevenjmesser) for their continually good recommendations this year.
+
+## The list
+
+Is in no particular order, wasn't limited to any particular number of tracks. Where I can I've said a bit about what I liked about the song, or how I came across it.
+
+Mostly, I've listened to all the albums these songs came on, but the chances anyone would want to listen to all of these as albums are slim. I have used data where I could, pulling down my streaming data, and tracks in my Shazam library.
+
+Fun fact: my first smartphone was an iPhone 3GS in 2009, the first app I installed was Shazam. It's still on my phone to this day. Shazam, you hero.
+
+The only rule I had was to only include tracks I _heard_ for the first time in 2019.
+
+Judging by what's on this list, I listened to far more electronic music than anything else in 2019. I have always loved electronic music, but my ears have a pretty broad diet. I was really surprised to find no hip-hop on the list at all this year. Someone please tell me what I missed. Thank the lord RTJ4 is due this year.
+
+Okay, let's crack on my 'ansomes.
+
+Oh, and if you just want to get straight to the listening, I made a bit of an effort and made playlists on [Apple Music](https://music.apple.com/gb/playlist/adams-2019-new-listens/pl.u-vxy66ejFd1bdy) **and** [Spotify](https://open.spotify.com/playlist/6s5nKpVc8eXyRXvGDxvHMK?si=_qoB9C7CTsemXLvpF7YPTA). Sorry to both of you on Tidal.
+
+### 1.  [He Has the Key - Nathan Micay](https://www.youtube.com/watch?v=uFWP148iP00)
+I found this one from [Bleep's top 10 albums of 2019](https://bleep.com/Bleeps-Top-10-Albums-of-the-Year-2019). Not going to lie, I was a little baffled when they described this as;
+
+>Nathan Micay turned in an anime-inspired club masterpiece in the form of Blue Spring.
+
+Whut? Then I got to this track, and it really all made sense. Good luck getting the vocal sample out of your head, it's no [Toss a Coin to Your Witcher](https://www.youtube.com/watch?v=hqbS7O9qIXE) but what is?
+
+### 2.  [Pang - Soundbwoy Killah](https://www.youtube.com/watch?v=vFITcSOoaBY)
+Steve recommended this one only the second time I met him, immediately positioning himself as someone worth knowing. Well played Steve, well played. This ended up being my album of 2019, so I am sure Mr. Killah will be pleased. I'm nearly 40 now, so the youth parlance is a mystery to me, but I believe this one slaps, or spanks, or something...
+
+### 3.  [Charlotte Day Wilson - Mountains](https://www.youtube.com/watch?v=UE-QzbMMadE)
+I first heard Charlotte Day Wilson on a BADBADNOTGOOD record and I am really looking forward to her first full album. I get the right old spine tingles listening to this, as gorgeous as a fresh saffron bun.
+
+### 4. [The Comet is Coming - Summon the Fire](https://www.youtube.com/watch?v=G55GspnNkBo)
+The horn sound on this finally answers the age-old question. What's the last thing you hear right before you're killed by an angry [Cockatrice](https://en.wikipedia.org/wiki/Cockatrice)?
+
+### 5.  [İnce İnce Bir Kar Yağar by Selda Bağcan](https://www.youtube.com/watch?v=vL3raxfj1oo)
+I heard this saucy riff sampled on some beat many years ago, and only found out where it came from when the YouTube algorithm recommended [this set](https://www.youtube.com/watch?v=w0jyU13gtBs) to me. I don't understand what she's saying, but I sure get how she's feeling.
+
+### 6.  [Take Back - Girls of the Internet](https://www.youtube.com/watch?v=Z7NmLpDhFfk)
+I love it when Nemone gets allowed out into the daylight on 6 Music because she plays only the finest electronica. I think it was another track off an earlier EP that first drew my attention to them, but this is a belter of a pop house track.
+
+### 7.  [My Sweet Lord - Byron Lee & The Dragonaires](https://www.youtube.com/watch?v=ttWtNPOaN2E)
+Another one that gives me the tingles. This is a fantastic cover of one of the most beautiful pop songs ever written.
+
+### 8.  [Luxe - Holy Fuck](https://www.youtube.com/watch?v=I6gP4IijTCM)
+I am pretty sure I have Mary Anne Hobbs to thank for this one. Frankly we should all be thanking Mary Anne Hobbs regularly. Maybe genuflect a bit too.
+
+### 9.  [Ibrik - Bonobo](https://www.youtube.com/watch?v=fcaoEq2Bvfg)
+Any danger of this appearing on an album this year please sir?
+
+### 10. [Descent - Pye Corner Audio](https://www.youtube.com/watch?v=B2Fd-UFn3CA)
+Paul put me on to Pye Corner Audio a while ago. I think he even said he went to see him play in a derelict train depot once. Part of me suspects it wasn't derelict at all and he and Mr. Pye or Mr. Corner(?) broke in, played some records and went for a train joyride. This track is delightfully menacing, like a train joyride.
+
+### 11. [Mars for the Rich - King Gizzard & The Lizard Wizard](https://www.youtube.com/watch?v=cdro3Zz5YsM)
+I first heard of King Gizzard & The Lizard Wizard when they released their debut Nonagon Infinity, a nine track concept album that could be played in an infinite loop. Since then they have changed musical style every album. This YouTube comment sums it up nicely. Roll on 2026.
+
+![well played sir](/my-wee-blog/images/king-gizzard.jpg)
+
+### 12. [Han Pan - Peggy Gou](https://www.youtube.com/watch?v=gLeb7L2x7Pk)
+Peggy Gou's brand of Techno is very much my jam, and this b-side from a single this year had me grooving in my kitchen like the embarrassing dad I am destined to be. I can also highly recommend her [DJ Kicks](https://k7records.bandcamp.com/album/dj-kicks-peggy-gou) mix.
+
+### 13. [Idles - Never Fight a Man with a Perm](https://www.youtube.com/watch?v=dEe4i2osF5A)
+A few years ago a friend of mine recommended Idles to me, but I ignored him because I have never been a great lover of the punk sound. Well friendo, I owe you an apology because I love this album and this track. The lyrics are sublime, including the stonking;
+
+>You look like a walking thyroid
+>
+>You're not a man, you're a gland
+>
+>You're one big neck with sausage hands
+
+Also the opening bars really remind me of The Vines' [Get Free](https://www.youtube.com/watch?v=asOvnGHwtDU).
+
+### 14. [Chrysalis - Cotton Wolf](https://www.youtube.com/watch?v=uYf33IwfOVg)
+I am 99% sure I also heard this one on Mary Anne Hobbs' show. All hail our saviour Mary Anne Hobbs.
+
+### 15. [Amore Amaro - Alessandro Cortini](https://www.youtube.com/watch?v=MVJC--9Swuk)
+Another recommend from train joyrider Paul. I enjoyed his 2017 effort AVANTI greatly, and was pleasantly surprised to find out this was even better. I found out the other day he also did the soundtrack to one of 2019's most average videogames, [Tom Clancy's Ghost Recon: Breakpoint](https://www.youtube.com/watch?v=_tTREGtktH8&list=PLplWQWlFS074Ck6YZLMon6QcSIbfAFNNW). Small world.
+
+### 16. [Chic Tweetz - Desert Sessions](https://www.youtube.com/watch?v=iiqjsiGyCYE)
+I have liked Josh Homme's original side project for many years now, and the latest Desert Sessions is no exception. Music doesn't always have to be serious. Matt Berry, yes, _that_ Matt Berry with a cracking turn on the organ here.
+
+### 17. [Pooling Acid - Tin Man](https://www.youtube.com/watch?v=AX-73F97deo)
+I presented at the always good [Data Bites](https://www.instituteforgovernment.org.uk/data-bites) (yes, even with me droning on) and that evening in the pub (there's a theme developing here) I had a chat with Dan that went something like this;
+
+Me: So Dan, what you been listneing to, got any recommends?
+
+Dan: I've been listening to this Tin Man album a lot which is two hours of acid house if that interests?
+
+Me:
+
+![yes](https://media.giphy.com/media/S3Ot3hZ5bcy8o/giphy.gif)
+
+### 18. [Lay in a Shimmer - Pantha du Prince](https://www.youtube.com/watch?v=A1ziaUBYoEc)
+Entering a little stretch of Dan recommends here for those of you keeping score. Apart from being a great, Pantha du Prince is the kind of nom-de-plume I can only dream of.
+
+### 19. [Opa - Kolsch](https://www.youtube.com/watch?v=cRKhrD-MuW4)
+Teutonic Techno done by the Dane next door. Thanks Dan.
+
+### 20. [Magnetico - Phillippi & Rodrigo](https://www.youtube.com/watch?v=2O7ncjGi06w)
+This is one I found randomly, and recommended to everyone else.
+
+_extremely Ralph Wiggum voice:_ I'm helping!
+
+Reminds me of the Bossa Nova demo beat off an old Casio keyboard, and if Drake can have a [hit](https://www.youtube.com/watch?v=uxpDa-c-4Mc) off that, why can't someone else?
+
+### 21. [Confessions Pt. 3 - BBNG](https://www.youtube.com/watch?v=XfEmah0iJfo)
+They made a part three! How about making a fifth album lads? None of us will be here forever.
+
+### 22. [Better - People Club](https://www.youtube.com/watch?v=aEjOeLKqzcg)
+Another random Shazam from the radio. Probably 6 Music but not certain. I'm not 100% sure I like the rest of their output, and no album in sight but I like this one even if the cover gives me the heebie-jeebies.
+
+### 23. [Swing Shut - Rozi Plain](https://www.youtube.com/watch?v=OZfcZ5m1bKU)
+One of the finest complete works this year. If you only listen to one full album from this list, please make it this one. Dan tweeted about this one I remember. So that platform isn't entirely dreadful.
+
+### 24. [Green & Blue - The Murder Capital](https://www.youtube.com/watch?v=ddBjpD5kHVY)
+A bit of a cliché going for one of the most well regarded albums of the year but if it's good, it's good.
+
+### 25. [Abusey Junction - KOKOROKO](https://www.youtube.com/watch?v=tSv04ylc6To)
+Another 6 Music special, only an EP so far but it's a corker. I don't know much about afrobeat but I will be exploring more in 2020.
+
+### 26. [Lux Prima - Karen O & Danger Mouse](https://www.youtube.com/watch?v=zy_rV49e7hI)
+I was looking forward to this Karen O and Danger Mouse collaboration from when it was announced. What surprised me was just how much I enjoyed it. It wasn't what I expected after hearing the first single, and this 9 minute opening volley with a couple of changes of pace was far more musically interesting than I was prepared for.
+
+### 27. [Simmer - Throwing Snow](https://www.youtube.com/watch?v=EbQ0dtA-p0A)
+Another one from Paul, the man has form I'll give him that. This has a lovely, dirty, wub wub to it that I like to enjoy on my own.
+
+### 28. [Suns of Gold - Leifur James](https://www.youtube.com/watch?v=HbZT-Rb83PA)
+A late entry to the list, I only discovered this because it was on Steve's [best of 2019](https://visitmy.website/2019/12/01/revivalist-aesthetic-musical-discoveries-2019/). This album is as glossy as a labrador's coat.
+
+### 29. [Jacques Greene - Do It Without You](https://www.youtube.com/watch?v=ftBguTzzVYI)
+OH CANADA!
+
+### 30. [Sonia - Love Don't Live Here Anymore](https://www.youtube.com/watch?v=KewZJHXLUH8)
+Sorry this is the only version of this song I could find online, but it's so good you can excuse the DJ adding his sting over the top. This is better than the original, yeah I said it.
+
+### 31. [Anoushka Shankar - Naked](https://www.youtube.com/watch?v=s2OYAcCvay8)
+It's nice to hear the Sitar take centre stage for once, and this is hell of a way to do it.
+
+Well, I hope you find something in this list you'll enjoy.
+
+Cheers 'n' gone.
