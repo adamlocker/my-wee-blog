@@ -3,6 +3,9 @@ layout: post
 title:  Data as institutional memory
 date:   2019-10-25 12:00:00
 categories: [data, architecture]
+excerpt: It all started, as usual, with me running my mouth in the pub.
+
+>"You can't outsource your data models, they're the manifestation of your institutional memory". 
 ---
 _This is a repost of what I originally posted on Medium in October 2019. I have also moved it here to get around the paywall thing. Let's be honest if you only have so many free articles and you have the choice between a luminary in their field and a saffron bun loving idiot, well, I don't blame you._
 
