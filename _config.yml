@@ -27,6 +27,7 @@ url: "https://adamlocker.github.io" # the base hostname & protocol for your site
 twitter_username: chairlord
 github_username:  adamlocker
 author: Adam Locker
+show_excerpts: true
 
 # Build settings
 theme: minima
