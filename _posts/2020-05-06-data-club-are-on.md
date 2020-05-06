@@ -6,7 +6,7 @@ categories: [data]
 excerpt: The first rule of data club is it's "are on" not "is on". Apparently.
 ---
 
-![data club has a motto](/my-wee-blog/images/data-club-are-on.png)
+![data club has a motto](/my-wee-blog/images/data-club.png)
 
 Data club is a joke. Literally. It was a shorthand for "anyone want to go to the pub and probably talk about data".
 
