@@ -2,7 +2,7 @@
 layout: post
 title:  Data club are on!
 date:   2020-05-06 17:30:00
-categories: [data, architecture]
+categories: [data]
 excerpt: The first rule of data club is it's "are on" not "is on". Apparently.
 ---
 
