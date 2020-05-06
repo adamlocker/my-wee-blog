@@ -16,7 +16,7 @@ But then a bunch of other nice, interesting and interested people said they woul
 
 So data club is happening (are happening?)
 
-## What ~is~ are data club?
+## What ~~is~~ are data club?
 
 Data club is a place where **you** can come and talk about data. More specifically, you can ask for help with, or a sympathetic ear to, your data problem.
 
