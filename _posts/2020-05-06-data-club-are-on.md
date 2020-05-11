@@ -40,6 +40,8 @@ Wednesday 13 May, from 1700 - 1800.
 
 ## Where will it happen?
 
+**EDIT:** Apparently the Google Calendar invite was not working as epxected, so here's a link driectly to the [Google Meet we'll be using](https://meet.google.com/ief-qiim-nto).
+
 There will be a Google Meet, er, meeting. Here's a [link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTFtbWd0bjBvNHM5MmhlbDJidnQzazc1ZTAgYWRhbS5sb2NrZXJAZm9vZC5nb3YudWs&tmsrc=adam.locker%40food.gov.uk) to it!
 
 And here's a wee button thing to add it to your diary.
