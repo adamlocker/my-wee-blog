@@ -42,11 +42,11 @@ Wednesday 13 May, from 1700 - 1800.
 
 **EDIT:** Apparently the Google Calendar invite was not working as epxected, so here's a link driectly to the [Google Meet we'll be using](https://meet.google.com/ief-qiim-nto).
 
-There will be a Google Meet, er, meeting. Here's a [link](https://calendar.google.com/event?action=TEMPLATE&tmeid=NTFtbWd0bjBvNHM5MmhlbDJidnQzazc1ZTAgYWRhbS5sb2NrZXJAZm9vZC5nb3YudWs&tmsrc=adam.locker%40food.gov.uk) to it!
+There will be a Google Meet, er, meeting. Here's a (now fixed!) [link](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3ZjdTU0ZWpzYWRodjJyNG9pZzA3M3R2N2EgZnA3bXJkcWhiOHBzOWZqY29tdmZkYjBhdGNAZw&tmsrc=fp7mrdqhb8ps9fjcomvfdb0atc%40group.calendar.google.com) to it!
 
 And here's a wee button thing to add it to your diary.
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTFtbWd0bjBvNHM5MmhlbDJidnQzazc1ZTAgYWRhbS5sb2NrZXJAZm9vZC5nb3YudWs&amp;tmsrc=adam.locker%40food.gov.uk"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3ZjdTU0ZWpzYWRodjJyNG9pZzA3M3R2N2EgZnA3bXJkcWhiOHBzOWZqY29tdmZkYjBhdGNAZw&amp;tmsrc=fp7mrdqhb8ps9fjcomvfdb0atc%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ## Chatham house rules?
 
