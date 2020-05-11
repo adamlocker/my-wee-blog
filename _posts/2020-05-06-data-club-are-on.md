@@ -42,6 +42,8 @@ Wednesday 13 May, from 1700 - 1800.
 
 **EDIT:** Apparently the Google Calendar invite was not working as epxected, so here's a link driectly to the [Google Meet we'll be using](https://meet.google.com/ief-qiim-nto).
 
+**EDIT 2:** This should now be fixed and you should be able to add the event to your calendar using the link or button below. I hope. I mean I have embarassed myself quite enough for one day.
+
 There will be a Google Meet, er, meeting. Here's a (now fixed!) [link](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3ZjdTU0ZWpzYWRodjJyNG9pZzA3M3R2N2EgZnA3bXJkcWhiOHBzOWZqY29tdmZkYjBhdGNAZw&tmsrc=fp7mrdqhb8ps9fjcomvfdb0atc%40group.calendar.google.com) to it!
 
 And here's a wee button thing to add it to your diary.
