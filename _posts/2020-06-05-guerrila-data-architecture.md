@@ -28,6 +28,8 @@ But what if your organisation or team is small? What if you're the only data arc
 
 You're going to have to make some savvy moves, pick and choose your targets, because your resources are less abundant. It's time for guerrilla data architecture.
 
+----
+
 ## Surveying the landscape
 The bottom up approach attempts to understand the whole by absorbing, cataloguing, and recording it's contents. This is a fine approach and will yield excellent results when seen through.
 
@@ -121,7 +123,7 @@ With that in mind, lets add connections for Saffron's Coming Home. I'll list the
 
 From speaking to colleagues as well assemble the map, we discover that finance currently rely on the data from the order service to do the books, and that their only interaction with the payments service is to make payments to our delivery partner.
 
-The users tell us that they know the data in the two components are related but because of this they are struggling to reconcile some of our credit card charges. This seems like a fine place to add a relationship
+The users tell us that they know the data in the two components are related but because of this they are struggling to reconcile some of our credit card charges. This seems like a fine place to add a relationship.
 
 ![Our ecosystem with relationships](/my-wee-blog/images/data-ecosystem/Step2-2.PNG)
 
@@ -176,14 +178,14 @@ Some other properties we have added to our maps that we've found useful include;
 -   Data transfer frequency, some stuff is real-time, but you'd be surprised what only moves monthly at best
 -   Data transfer mechanics - is there an API? Is it a spreadsheet or report? A combination of things?
 -   Who owns the thing? Service and product ownership aren't as mature or obvious in many organisations as it is in our little digital bubble, knowing who to know is very useful
--   Also Known As - this one felt a little silly at the time, but once you get several acronyms deep it's really important to be explicit about services in the map but have somewhere to refer to what others know it as. Especially if two different groups call it something different.
--   Reference data - list what is or **could** be reference data. There is still an enormous amount of gains to be made across swathes of sectors by people creating and publishing reliable, good quality reference data, and not just government.
+-   Also known as - this one felt a little silly at the time, but once you get several acronyms deep it's really important to be explicit about services in the map but have somewhere to refer to what others know it as. Especially if two different groups call it something different
+-   Reference data - list what is or **could** be reference data. There is still an enormous amount of gains to be made across swathes of sectors by people creating and publishing reliable, good quality reference data, and not just government
 
 This is just the stuff around data. It can be incredibly useful to enrich the picture with information from technical architects, commercial teams, security and information governance, and let's not forget users. I could think of far worse things than to get a rating on how much they like or dislike a service using a sliding emoji scale...
 
 😀 🙂 😑 😒 🤬
 
-# Look outside
+# Level 5 – Look outside
 Once you have a better understanding of how things fit together in your world, you can start to look for opportunities outside it.
 
 Start by adding those services you use but don't own, and then think adding data sources you don't own **or** use. By adding prospective useful data sources to your map, you make it easier to see what the biggest opportunities lie.
