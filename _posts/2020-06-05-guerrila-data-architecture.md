@@ -106,7 +106,7 @@ I originally started adding relationships once I had completed my initial map an
 
 Relationships are represented by a dotted line in my maps, but you could use a different colour, some cool tape or a glitter pen if you're fancy.
 
-![Example of a relationship](/my-wee-blog/images/data-ecosystem/Step1-2.PNG)
+![Example of a relationship](/my-wee-blog/images/data-ecosystem/Step2-Relationship.PNG)
 
 ----
 
