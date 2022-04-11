@@ -53,7 +53,3 @@ That seems to be sorted now, so the only other thing is that you're not there. Y
 It's always on the second Wednesday of the month, from 1700 - 1800. There's a calendar embedded below where you should be able to see the recurring invite and add it to your own calendar. (Thanks to [Leigh](https://twitter.com/ldodds) for helping me sort that one out).
 
 Don't worry if you can't see the meeting invite yet, I pop that in there five minutes before we start. I do this after that one time we were ambushed by rogue continental teenagers.
-
-## calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=fp7mrdqhb8ps9fjcomvfdb0atc%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
