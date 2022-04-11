@@ -2,10 +2,11 @@
 layout: post
 title:  Data club are still on!
 date:   2022-04-11 19:00:00
-categories: data
+categories: [data]
+excerpt: Data Club is it's own thing now, but deep down, it just wants to be OneTeamGov breakfast.
 ---
 
-Data Club is it's own thing now, but deep down, it just wants to be OneTeamGov Breakfast.
+Data Club is it's own thing now, but deep down, it just wants to be OneTeamGov breakfast.
 
 Why? Aside from breakfast being the best meal, and the only one I'd happily eat for every meal, it's the spirit of coming together to both listen and help. That was the thing I most loved about OTG breakfasts when I was able to attend.
 
