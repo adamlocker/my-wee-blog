@@ -2,7 +2,7 @@
 layout: post
 title:  Data club are still on!
 date:   2022-04-11 19:00:00
-categories: [data]
+categories: data
 ---
 
 Data Club is it's own thing now, but deep down, it just wants to be OneTeamGov Breakfast.
