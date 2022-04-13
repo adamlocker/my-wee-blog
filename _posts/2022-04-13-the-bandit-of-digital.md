@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Bandits of Digital Transformation
-date: 2022-04-13 14:00:00
+date: 2022-04-13 14:30:00
 categories: transformation
-excerpt: The Smokey and the Bandit theme is actually about Digital Transformation, hear me out...
 ---
 
 Last week I found myself in the unenviable position of having the ear worm 🐛 “Eastbound and Down” (The Smokey and the Bandit theme) by Jerry Reed.
