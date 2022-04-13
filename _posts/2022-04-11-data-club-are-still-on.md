@@ -22,7 +22,7 @@ Just to be clear, this isn't seal clubbing for data - in case you were worried.
 
 As Data Club tends to be a smaller group, the reality is we just have a nice chat. But we always start with one simple question: "Does anyone have a problem that they'd like some help with?"
 
-That really is the essence of Data Club, getting folks' data problems front and centre of a group of likeminded folks who have likely experience the same problems, and in some cases, even solved those problems.
+That really is the essence of Data Club, getting folks' data problems front and centre of a group of likeminded brains who have likely experienced the same problems, and in some cases, even solved them.
 
 I always envisioned that we would copy OTGB and vote on subjects to talk about, but we nearly always just start with that question and it rolls along from there.
 
