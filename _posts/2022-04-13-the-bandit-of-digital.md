@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Smokey and the Bandit of Digital Transformation
+title: Bandits of Digital Transformation
 date: 2022-04-13 14:00:00
 categories: transformation
 excerpt: The Smokey and the Bandit theme is actually about Digital Transformation, hear me out...
