@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bandits of Digital Transformation
-date: 2022-04-13 14:30:00
+date: 2022-04-13
 categories: transformation
 ---
 
