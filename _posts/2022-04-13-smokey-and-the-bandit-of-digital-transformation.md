@@ -2,7 +2,7 @@
 layout: post
 title: The Smokey and the Bandit of Digital Transformation
 date: 2022-04-13 14:00:00
-categories: [thought leadership]
+categories: [thought, leadership]
 excerpt: The Smokey and the Bandit theme is actually about Digital Transformation, hear me out...
 ---
 
@@ -68,4 +68,4 @@ Okay, it’s getting a bit thin here, but I really feel like I've got it out of 
 
 ---
 
-_Thanks kindly to [Dan](https://twitter.com/dasbarrett), who kicked the tyres on this silly idea and contributed a couple of real zingers._
+_Thanks kindly to [Dan](https://twitter.com/dasbarrett), who kicked the tyres on this silly idea and contributed a couple of real zingers._  
