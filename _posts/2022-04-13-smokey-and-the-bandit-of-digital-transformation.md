@@ -66,6 +66,4 @@ But you also need moves. Those moves generate delivery, and really keep the digi
 
 Okay, it’s getting a bit thin here, but I really feel like I've got it out of my system at least.
 
----
-
 _Thanks kindly to [Dan](https://twitter.com/dasbarrett), who kicked the tyres on this silly idea and contributed a couple of real zingers._  
